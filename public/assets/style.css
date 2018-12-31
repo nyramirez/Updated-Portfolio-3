@@ -1,0 +1,61 @@
+#myImage1 {
+    width: 60%;
+    height: auto;
+    margin-left: 20vw;
+}
+
+#myImage2 {
+    width: 1%;
+    height: auto;
+    margin-left: 20vw;
+    margin-right:20vw;
+}
+
+.collage {
+    height: 20vh;
+    width: auto;
+    object-fit:cover;
+}
+
+#infoMessage{
+    width: 80%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#whoAmImage {
+    margin-top: 2vh;
+    margin-left: 5vw;
+    width: 40%;    
+}
+
+#whoAmI {
+    margin-left:1vw;
+    margin-right: 5vw;
+    width: 40%;  
+}
+
+#latestProj {
+    margin-top: 2vh;
+    margin-left: 5vw;
+    width: 40%; 
+}
+
+#textarea1 {
+    height: 19vh;
+    margin-left: 3vw;
+}
+
+#labelText {
+    margin-left: 3vw;
+}
+
+.parallax-container {
+    height: 30vh;
+}
+
+.cardImage {
+    width: 35vw;
+    height: 38vh;
+}

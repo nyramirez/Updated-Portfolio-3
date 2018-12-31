@@ -1,0 +1,25 @@
+{
+  "name": "updatedportfolio3",
+  "version": "1.0.0",
+  "description": "Updated portfolio with server running",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyramirez/Updated-Portfolio-3.git"
+  },
+  "author": "Nestor Ramirez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyramirez/Updated-Portfolio-3/issues"
+  },
+  "homepage": "https://github.com/nyramirez/Updated-Portfolio-3#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "jquery": "^3.3.1",
+    "request": "^2.88.0"
+  }
+}
